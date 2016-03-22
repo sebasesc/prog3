@@ -11,7 +11,9 @@ public class Main {
 			list.insert(3);
 
 		list.print();
-
+int[] arr = {0,2,3,6,1,4,5,8};
+ arr=ArrayL.sort(arr);
+System.out.println(arr);
 		// TODO Auto-generated method stub
 
 	}
